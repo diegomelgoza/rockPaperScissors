@@ -1,5 +1,5 @@
 # rockPaperScissors
-
+https://diegomelgoza.github.io/rockPaperScissors/
 This project is following the instructions from The Odin Project.
 
 ## game.html
